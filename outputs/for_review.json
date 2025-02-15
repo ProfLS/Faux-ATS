@@ -1,0 +1,482 @@
+[
+    {
+        "file_name": "2_CV - Taeeun Kim (Taeeun Kim).PDF",
+        "explanation": "The resume of Taeeun Kim demonstrates a strong academic background with a major in Biotechnology and a high GPA. The candidate has received multiple scholarships and awards, indicating academic excellence and recognition. In terms of leadership and initiative, Taeeun has held roles such as Poster Team Leader and SNS Team Leader, which involve managing social network platforms and leading teams. This experience aligns with the leadership and initiative criteria. However, there is no explicit mention of ambassador or outreach experience, which is crucial for the LinkedIn Campus Ambassador Program. The candidate has experience in content creation and marketing through managing social network platforms and writing articles, which partially fulfills the content creation and marketing criteria. The resume lacks specific projects related to the ambassador role, and there is no detailed mention of skills relevant to the program's pillars such as communication, professionalism, motivation, and creativity. Therefore, the scores reflect the strengths in leadership roles and content creation but highlight the absence of direct ambassador experience and specific projects.",
+        "purpose": 1,
+        "experience": 4,
+        "projects": 2,
+        "skills": 2
+    },
+    {
+        "file_name": "Aayush_Patil_Data_Engineer - Aayush Anil Patil.pdf",
+        "explanation": "The candidate's resume demonstrates a strong technical background in data engineering and analytics, with a focus on building and optimizing data pipelines. However, the resume lacks explicit mention of leadership roles or ambassadorial experience, which are crucial for the LinkedIn Campus Ambassador Program. The purpose section scores low as the candidate's summary does not align with the ambassadorial role's objectives. The experience section scores moderately due to the candidate's technical achievements, but lacks direct relevance to the ambassadorial role. The projects section scores high due to the candidate's involvement in complex data projects, showcasing initiative and problem-solving skills. The skills section scores moderately, as the candidate possesses strong technical skills but lacks explicit mention of interpersonal or communication skills necessary for the ambassadorial role.",
+        "purpose": 1,
+        "experience": 3,
+        "projects": 5,
+        "skills": 2
+    },
+    {
+        "file_name": "AbhiJain_Resume_FL - Abhi Jain.pdf",
+        "explanation": "The resume provided does not explicitly mention any purpose related to the LinkedIn Campus Ambassador Program, hence a score of 0 is given for the purpose section. In terms of experience, the candidate has demonstrated leadership and initiative through roles such as spearheading development projects and designing systems, which aligns with the leadership and initiative criteria, earning a score of 4. However, there is no direct mention of experience in student organizations, mentoring, or managing projects related to the ambassador role, which limits the score. For projects, the candidate has worked on several technical projects, showcasing creativity and problem-solving skills, but these projects are not directly related to content creation or marketing for events, resulting in a score of 3. The skills section is strong, with a wide range of technical skills and frameworks listed, but lacks specific mention of interpersonal, communication, or organizational skills relevant to the ambassador role, resulting in a score of 2.",
+        "purpose": 0,
+        "experience": 4,
+        "projects": 3,
+        "skills": 2
+    },
+    {
+        "file_name": "Abhinav Biju Resume 2025 - Abhinav Biju.pdf",
+        "explanation": "The candidate has demonstrated leadership and initiative through roles such as Director of Professional Development and Director of Alumni Relations at the Management Information Systems Association (MISA). This involvement indicates proactive engagement in academic and professional settings, earning a score of 5 in the Experience section. The candidate's experience as a Project Lead at Cisco Systems, where they led a research project and presented to executives, further supports this score. However, there is no explicit mention of ambassador or outreach experience, which limits the score in the Purpose section to 1. The candidate has developed skills in network security monitoring and incident investigation, as well as creating a custom dashboard in Elastic SIEM, which demonstrates strong technical skills, earning a score of 3 in the Skills section. There is no specific mention of content creation or marketing projects, which results in a score of 2 in the Projects section.",
+        "purpose": 1,
+        "experience": 5,
+        "projects": 2,
+        "skills": 3
+    },
+    {
+        "file_name": "Aditya_Kulkarni_Resume - Aditya Kulkarni.pdf",
+        "explanation": "Aditya Kulkarni's resume showcases a strong technical background with extensive experience in software engineering projects. However, the resume lacks explicit mention of leadership roles or ambassadorial experience, which are crucial for the LinkedIn Campus Ambassador Program. The projects listed demonstrate technical proficiency and initiative, but they do not directly align with the responsibilities of promoting LinkedIn or engaging with student communities. The skills section highlights a wide range of technical skills, but there is no emphasis on communication, marketing, or event management skills, which are essential for the ambassador role.",
+        "purpose": 1,
+        "experience": 2,
+        "projects": 4,
+        "skills": 2
+    },
+    {
+        "file_name": "Alan Nguyen Resume (2) - Alan Nguyen.pdf",
+        "explanation": "Alan Nguyen's resume demonstrates a strong background in leadership and initiative, as evidenced by his roles in guiding a team of recruits and leading a project management team. His experience in social media marketing and flyer distribution aligns well with the content creation and marketing criteria. However, there is no explicit mention of ambassador or outreach experience, which affects the score in that area. The skills section highlights marketing and organizational skills, which are relevant but not extensively detailed.",
+        "purpose": 1,
+        "experience": 5,
+        "projects": 3,
+        "skills": 3
+    },
+    {
+        "file_name": "Ambassador Resume - Nandhini Manchikalapudi - Nandhini Manchikalapudi.pdf",
+        "explanation": "The resume lacks a clear statement of purpose related to the LinkedIn Campus Ambassador Program, resulting in a score of 0 for the purpose section. In terms of experience, the candidate has organized events for over 70 participants, which demonstrates some level of experience in managing events and engaging with a community, earning a score of 3. The projects section highlights a significant initiative, Horizon Learning, where the candidate co-founded a nonprofit tutoring platform. This project involved substantial leadership, product development, and marketing efforts, justifying a score of 5. The skills section lists relevant skills such as interpersonal communication, public speaking, and leadership, which are crucial for the ambassador role, resulting in a score of 3.",
+        "purpose": 0,
+        "experience": 3,
+        "projects": 5,
+        "skills": 3
+    },
+    {
+        "file_name": "Andrew Rostam_s - Resume - Andrew Rostam.pdf",
+        "explanation": "Andrew Rostam's resume demonstrates a strong technical background and leadership experience, particularly in the context of student organizations and technical projects. However, the resume lacks explicit mention of purpose related to the LinkedIn Campus Ambassador role, such as promoting LinkedIn's value or empowering peers. \n\nPurpose: The resume does not explicitly mention any purpose or motivation related to the LinkedIn Campus Ambassador role, such as promoting LinkedIn or empowering peers. Therefore, the score for purpose is 0.\n\nExperience: Andrew has significant experience as a DevOps Engineer Intern at Intel, where he led a small team and organized a panel for students. Additionally, his leadership roles in student clubs, such as Founder and Communications Director for ISSA, Treasurer for NETS, and VP for Qooyama, demonstrate strong leadership and initiative. These experiences align well with the leadership and initiative criteria, earning him a score of 6.\n\nProjects: The projects listed, such as the Electromagnetic Engine, Circuit Breadboard, and Robot, showcase Andrew's technical skills and ability to work on complex projects. However, these projects do not directly relate to content creation or marketing, which are key aspects of the ambassador role. Therefore, the score for projects is 3.\n\nSkills: The resume does not explicitly list skills related to communication, marketing, or public speaking, which are crucial for the ambassador role. However, his leadership roles and experience organizing a panel suggest some level of these skills. Therefore, the score for skills is 2.",
+        "purpose": 0,
+        "experience": 6,
+        "projects": 3,
+        "skills": 2
+    },
+    {
+        "file_name": "Andre_s_Resume_with_Projects - Andre Dinh.pdf",
+        "explanation": "Andre's resume demonstrates a strong foundation in data analysis and project collaboration, as evidenced by his involvement in projects like the U.S Regional Sales Analysis and Titanic Analysis. However, the resume lacks explicit mention of leadership roles or ambassadorial experience, which are crucial for the LinkedIn Campus Ambassador Program. The projects section is robust, showcasing Andre's ability to work with data and present findings effectively. His skills in problem-solving, collaboration, and communication are well-aligned with the program's requirements, but there is no direct evidence of experience in content creation or marketing, which affects the scoring in the experience section.",
+        "purpose": 0,
+        "experience": 2,
+        "projects": 5,
+        "skills": 3
+    },
+    {
+        "file_name": "Andy Alam - Resume - Adnan Alam.pdf",
+        "explanation": "The resume provided does not explicitly mention any purpose related to the LinkedIn Campus Ambassador Program, hence a score of 0 is given for the Purpose section. The Experience section is rich with leadership roles and project management experience, such as directing FDA/EU MDR regulatory submission programs and leading cross-functional teams, which aligns with the leadership and initiative criteria, earning a score of 6. However, there is no mention of specific projects related to content creation, marketing, or ambassadorial roles, resulting in a score of 0 for Projects. The Skills section lists a wide range of competencies, including technical program management, digital marketing, and customer success management, which are relevant to the skills required for the ambassador role, earning a score of 4.",
+        "purpose": 0,
+        "experience": 6,
+        "projects": 0,
+        "skills": 4
+    },
+    {
+        "file_name": "AnshikaAgrawal_Duolingo - Anshika Agrawal.pdf",
+        "explanation": "The candidate's purpose section highlights an MBA candidacy with over 5.5 years of experience, which suggests a strong professional background but does not explicitly align with the ambassador role's purpose of promoting LinkedIn's value. Therefore, a score of 1 is given for purpose. In the experience section, the candidate has facilitated learning sessions and received awards, indicating some leadership and initiative, but lacks direct experience in student organizations or ambassador roles, resulting in a score of 3. The projects section includes detailed analyses and presentations, showcasing strong research and analytical skills, but these projects do not directly relate to content creation or marketing for LinkedIn, leading to a score of 3. The skills section lists a wide range of technical skills and tools, demonstrating strong organizational and analytical capabilities, but lacks emphasis on interpersonal or communication skills crucial for the ambassador role, resulting in a score of 2.",
+        "purpose": 1,
+        "experience": 3,
+        "projects": 3,
+        "skills": 2
+    },
+    {
+        "file_name": "ANSHU - RESUME JUNIOR YEAR UPDATED -4 - Anshu Guntur.pdf",
+        "explanation": "The candidate has demonstrated a strong background in leadership and initiative through roles such as 'Marketing Association, Synergy Outreach Specialist' where they organized networking events and collaborated on marketing workshops. This experience aligns well with the ambassador role's requirement for leadership and initiative, earning a high score in the experience section. The candidate also has experience in content creation and marketing, as evidenced by their role at COACH where they curated social media content and conducted marketing analysis. This supports a strong score in the projects section. The candidate's skills section lists relevant skills such as leadership, verbal communication, and problem-solving, which are crucial for the ambassador role, resulting in a high score in the skills section. However, the purpose section lacks specific mention of the candidate's motivation or purpose for applying to the LinkedIn Campus Ambassador Program, resulting in a lower score in that area.",
+        "purpose": 1,
+        "experience": 6,
+        "projects": 5,
+        "skills": 4
+    },
+    {
+        "file_name": "BertinaF_Resume - Bertina Fan.pdf",
+        "explanation": "Bertina Fan's resume demonstrates a strong alignment with the LinkedIn Campus Ambassador Program's requirements. \n\nPurpose: Bertina's resume does not explicitly state her purpose or motivation for applying to the LinkedIn Campus Ambassador Program, resulting in a score of 0 in this section. \n\nExperience: Bertina has extensive experience in leadership and project management roles, such as her position as a Project Management Student Assistant and her role in the Vietnamese Student Association. Her involvement in organizing community events and mentoring students showcases her proactive engagement and leadership skills, earning her a score of 6 in this section. \n\nProjects: Although specific projects are not detailed, Bertina's roles involved significant project management and execution, such as creating promotional campaigns and organizing events. However, due to the lack of explicit project descriptions, she receives a score of 4 in this section. \n\nSkills: Bertina possesses a wide range of relevant skills, including marketing, design, leadership, and communication. Her proficiency in Adobe Suite and Microsoft Office, along with her experience in content creation and public relations, aligns well with the program's requirements, resulting in a score of 4 in this section.",
+        "purpose": 0,
+        "experience": 6,
+        "projects": 4,
+        "skills": 4
+    },
+    {
+        "file_name": "Christina Tra Resume - Christina Tra.pdf",
+        "explanation": "Christina Tra's resume demonstrates a strong alignment with the LinkedIn Campus Ambassador Program's objectives. \n\nPurpose: Christina's involvement in enforcing ICC Codes and orchestrating paperwork for student clubs shows a commitment to supporting student organizations and upholding standards. This aligns with the ambassador role's purpose of promoting professional growth and networking, earning her a score of 2.\n\nExperience: Christina has experience in increasing attendance and engagement, partnering with internal teams for media campaigns, and coordinating with guest speakers. These experiences reflect leadership and initiative, as well as content creation and marketing skills. However, the lack of explicit leadership titles such as 'President' or 'Vice President' limits the score to 4.\n\nProjects: The resume does not mention specific projects related to the ambassador role, resulting in a score of 0 for this section.\n\nSkills: Christina's skills in maintaining active participation from over 200 members and developing workshops with industry professionals demonstrate strong interpersonal, communication, and organizational skills. These are crucial for the ambassador role, earning her a score of 4.",
+        "purpose": 2,
+        "experience": 4,
+        "projects": 0,
+        "skills": 4
+    },
+    {
+        "file_name": "Dishti Bansal Resume - Dishti Bansal.pdf",
+        "explanation": "Dishti Bansal's resume demonstrates a strong academic background in aerospace engineering with a focus on research projects related to biosignatures and exoplanet habitability. However, the resume lacks specific mention of leadership roles or direct experience in content creation and marketing, which are crucial for the LinkedIn Campus Ambassador Program. The experience section highlights involvement in the AIAA Aerospace Club as an underclassmen representative, indicating some level of engagement in student organizations. The skills section mentions time management and team leadership, which are relevant but not extensively detailed. Overall, the resume shows potential but lacks direct alignment with the ambassador role's key responsibilities and evaluation criteria.",
+        "purpose": 1,
+        "experience": 3,
+        "projects": 4,
+        "skills": 2
+    },
+    {
+        "file_name": "Hafeeza_Samreen_s_SWE_Resume (3) - Hafeeza Samreen.pdf",
+        "explanation": "The candidate has extensive experience in software engineering roles, demonstrating strong technical skills and project management capabilities. However, there is no explicit mention of purpose related to the LinkedIn Campus Ambassador Program, such as promoting LinkedIn or engaging with student communities. The experience section scores highly due to the candidate's leadership in technical projects and internships, but lacks direct experience in student organizations or ambassador roles. The projects section is strong, showcasing complex technical projects with significant achievements, but again lacks direct relevance to ambassadorial roles. The skills section is robust, highlighting a wide range of technical skills, but does not emphasize interpersonal or communication skills necessary for the ambassador role.",
+        "purpose": 0,
+        "experience": 4,
+        "projects": 5,
+        "skills": 3
+    },
+    {
+        "file_name": "Hnin Yee Ko Resume PgM - Hnin Yee Ko.pdf",
+        "explanation": "The candidate demonstrates a strong alignment with the LinkedIn Campus Ambassador Program's objectives through their extensive experience in leadership and outreach roles. As the Founding President of the Burmese Student Association, they showcased leadership by managing a 20+ member organization and increasing membership significantly. Their role as an International Student Ambassador further highlights their capability in event management and enhancing student engagement, which aligns with the ambassador role's responsibilities. The candidate's experience at Adobe as a Design Program Manager Intern and at Innovative Systems Co., Ltd as a Business Development Assistant indicates strong cross-functional collaboration and project management skills. These experiences contribute to their high scores in the Experience and Projects sections. The skills section is also rated highly due to their demonstrated strong interpersonal, communication, and organizational skills, as evidenced by their roles and achievements.",
+        "purpose": 2,
+        "experience": 6,
+        "projects": 6,
+        "skills": 4
+    },
+    {
+        "file_name": "Iker-Resume - iker lorenzo brull.pdf",
+        "explanation": "The candidate has demonstrated relevant experience in social media marketing and event organization, which aligns with the responsibilities of a LinkedIn Campus Ambassador. The role at Kim Grant Tennis Academy involved creating marketing strategies and collaborating with cross-functional teams, showcasing skills in content creation and marketing. The Resident Assistant position highlights experience in organizing events and fostering community engagement, which is crucial for ambassador and outreach activities. The Teacher Assistant role, while not directly related to the ambassador program, indicates leadership and teaching skills. However, there is no explicit mention of purpose or motivation related to the ambassador role, resulting in a lower score in the purpose section. The skills section is rated based on the candidate's demonstrated ability to work cross-functionally and manage events, which are essential for the ambassador role.",
+        "purpose": 0,
+        "experience": 5,
+        "projects": 4,
+        "skills": 3
+    },
+    {
+        "file_name": "Intern - Monisha Gottam.pdf",
+        "explanation": "Monisha Gottam's resume demonstrates strong technical expertise in machine learning and data science, particularly in NLP and deep learning. However, the resume lacks direct evidence of leadership roles or ambassadorial experience, which are crucial for the LinkedIn Campus Ambassador Program. The purpose section scores low because the resume does not clearly align with the ambassadorial role's objectives of promoting LinkedIn and engaging with student communities. The experience section scores moderately due to the technical depth and project involvement, but lacks direct experience in student organizations or leadership roles. The projects section scores well because of the detailed descriptions of complex projects, showcasing initiative and problem-solving skills. The skills section scores moderately, reflecting strong technical skills but lacking emphasis on interpersonal or communication skills necessary for the ambassador role.",
+        "purpose": 1,
+        "experience": 3,
+        "projects": 5,
+        "skills": 2
+    },
+    {
+        "file_name": "Jaden Hozer 2024 Resume - Jaden Finkel-Hozer.pdf",
+        "explanation": "Jaden's resume demonstrates a strong background in content creation and social media management, particularly in the fitness industry. The experience section highlights roles that involve leadership and initiative, such as recruiting media teams and launching a blog. However, there is no explicit mention of ambassador or outreach experience, which affects the purpose score. The projects section lacks specific examples of projects that align with the ambassador role, resulting in a lower score. The skills section reflects strong communication and interpersonal skills, which are crucial for the ambassador role.",
+        "purpose": 1,
+        "experience": 5,
+        "projects": 2,
+        "skills": 3
+    },
+    {
+        "file_name": "Justin Yee Official Resume - Justin Yee.pdf",
+        "explanation": "The candidate's resume demonstrates strong leadership and initiative through their role as Vice President of Membership for the Banking and Investment Association, where they led strategic membership growth efforts and developed optimized processes. This aligns well with the leadership and initiative criteria, earning a high score in the experience section. However, there is no specific mention of content creation or marketing experience, which affects the projects score. The skills section is strong, as the candidate has demonstrated the ability to recruit and manage members, aligning with the skills required for the ambassador role. The purpose section is not addressed in the resume, resulting in a lower score.",
+        "purpose": 0,
+        "experience": 6,
+        "projects": 2,
+        "skills": 4
+    },
+    {
+        "file_name": "Kenil_Gopani_Resume_Software_Engineer_amazon_SDE_Intern - Kenil Gopani.pdf",
+        "explanation": "Kenil Gopani's resume demonstrates strong technical skills and project experience, particularly in software engineering and development. However, the resume lacks explicit mention of leadership roles or ambassadorial experience, which are crucial for the LinkedIn Campus Ambassador Program. \n\nPurpose (1/2): The resume does not clearly articulate a purpose aligned with the ambassador role, such as promoting LinkedIn or engaging with student communities. The focus is more on technical achievements and software development. \n\nExperience (3/6): While Kenil has substantial experience in software development and internships, there is no mention of leadership roles or involvement in student organizations, which are important for the ambassador role. \n\nProjects (4/6): The projects listed are technically impressive and demonstrate initiative and problem-solving skills. However, they do not relate to community engagement or ambassadorial activities. \n\nSkills (3/4): Kenil possesses strong technical skills and some organizational skills, but the resume lacks evidence of strong interpersonal or communication skills necessary for the ambassador role.",
+        "purpose": 1,
+        "experience": 3,
+        "projects": 4,
+        "skills": 3
+    },
+    {
+        "file_name": "Kimberly Melena-Gonzalez SJSU Resume (February 2025) - Kimberly Melena.pdf",
+        "explanation": "The resume provided by Kimberly Melena-Gonzalez was evaluated based on the predefined criteria for the LinkedIn Campus Ambassador Program. \n\nPurpose: The objectives and expectations section was vague and did not clearly articulate a strong purpose related to the ambassador role. Therefore, it was scored at 1 out of 2.\n\nExperience: The resume did not provide specific details about leadership roles or proactive engagement in academic or professional settings. The mention of 'experience and continuous learning' was too generic to warrant a higher score. Thus, it was scored at 2 out of 6.\n\nProjects: The projects section mentioned delivering engaging presentations but lacked specific examples or outcomes of these projects. This section was scored at 3 out of 6 due to the mention of presentations, which aligns with the role's requirements.\n\nSkills: The skills section included relevant skills such as organizational and time management, collaborative teamwork, and critical problem-solving, which are valuable for the ambassador role. The language skills in English and Spanish are also beneficial. Therefore, this section was scored at 4 out of 4.",
+        "purpose": 1,
+        "experience": 2,
+        "projects": 3,
+        "skills": 4
+    },
+    {
+        "file_name": "Mahathi Vinapamula _ Resume - Mahathi V.pdf",
+        "explanation": "The candidate's resume was evaluated based on the predefined criteria for the LinkedIn Campus Ambassador Program. \n\nPurpose: The resume does not explicitly mention the candidate's purpose or motivation for applying to the LinkedIn Campus Ambassador Program, resulting in a score of 0 for this section.\n\nExperience: The candidate has experience as a Financial and Marketing Analyst at the San Jose Consulting Group, where they collaborated with a startup and analyzed financial and marketing data. However, there is no mention of leadership roles or proactive engagement in student organizations, which are key criteria for this section. Therefore, the candidate receives a score of 2 for experience.\n\nProjects: The candidate has been involved in extracurricular activities as a Martial Arts Instructor and a Spanish and Math Tutor. These roles demonstrate the ability to engage with a diverse audience and provide guidance, which aligns with the ambassador role. However, there is no mention of specific projects related to content creation or event organization, resulting in a score of 3 for projects.\n\nSkills: The candidate possesses strong skills in Microsoft Office Suite, G Suite, Power BI, and Tableau, along with language proficiency in multiple languages. They also hold relevant certifications from LinkedIn Learning and other institutes. These skills are valuable for the ambassador role, resulting in a score of 4 for skills.",
+        "purpose": 0,
+        "experience": 2,
+        "projects": 3,
+        "skills": 4
+    },
+    {
+        "file_name": "Marisela Quintua Resume Current - Marisela Quintua.pdf",
+        "explanation": "Marisela Quintua's resume demonstrates a strong foundation in communication and interpersonal skills, as evidenced by her honors in news writing and experience in social media management and event coordination. However, the resume lacks explicit mention of leadership roles such as President, VP, or Captain, which affects the leadership and initiative score. Her experience as an event coordinator and food runner shows involvement in organizing and managing events, which aligns with the ambassador and outreach experience criteria. The creation of a training manual and streamlined systems indicates project management skills, but there is no mention of specific projects related to LinkedIn's ambassador responsibilities. Skills in communication and organization are evident, but the resume does not explicitly highlight cross-functional work or self-motivation related to LinkedIn's program pillars.",
+        "purpose": 1,
+        "experience": 4,
+        "projects": 3,
+        "skills": 3
+    },
+    {
+        "file_name": "mohan_resume_sde_ambassdor - Mohan Kancherla.pdf",
+        "explanation": "Mohan's resume demonstrates strong technical skills and project experience, particularly in software development and engineering roles. However, the resume lacks explicit mention of ambassadorial or outreach experience, which is crucial for the LinkedIn Campus Ambassador Program. \n\nPurpose: The resume does not clearly articulate a purpose aligned with the ambassador role, such as promoting LinkedIn or engaging with student communities. The focus is more on technical achievements and optimizations in software engineering. Therefore, the score for purpose is 0.\n\nExperience: Mohan has extensive experience as a Software Development Engineer, with a focus on optimizing systems and improving user engagement. However, there is no mention of leadership roles or involvement in student organizations that would demonstrate experience relevant to the ambassador role. The experience score is 3, reflecting strong technical experience but lacking in leadership or ambassadorial roles.\n\nProjects: The projects listed are technically impressive and demonstrate Mohan's ability to lead and execute complex software projects. However, they do not relate to community engagement or ambassadorial activities. The score for projects is 4, acknowledging the technical depth and execution.\n\nSkills: Mohan possesses strong technical skills, including React, Firebase, and AWS, which are valuable but not directly aligned with the ambassador role's focus on communication and outreach. The skills score is 2, recognizing technical proficiency but lacking in communication and outreach skills.",
+        "purpose": 0,
+        "experience": 3,
+        "projects": 4,
+        "skills": 2
+    },
+    {
+        "file_name": "My_Resume_4 - Uyen Pham.pdf",
+        "explanation": "The candidate has demonstrated a strong foundation in technical skills and project execution, as evidenced by their involvement in various projects such as Motion AI, Game Manager, and Weather Data Analysis. These projects showcase their ability to apply technical knowledge to real-world problems, which is crucial for the LinkedIn Campus Ambassador role. However, the resume lacks explicit mention of leadership roles or ambassadorial experience, which are key components of the program. The experience as a Peer Tutor and Small Business Owner indicates some level of initiative and communication skills, but there is no direct evidence of experience in organizing events or leading student organizations. The skills section highlights a wide range of technical proficiencies, which are valuable but not directly aligned with the ambassadorial responsibilities of promoting LinkedIn and engaging with the student community.",
+        "purpose": 1,
+        "experience": 3,
+        "projects": 5,
+        "skills": 3
+    },
+    {
+        "file_name": "Nitya Resume1 - Nitya Reddy Yerram.pdf",
+        "explanation": "The resume demonstrates strong technical skills and project experience, particularly in software development and distributed systems. However, it lacks explicit mention of leadership roles or ambassadorial experience, which are crucial for the LinkedIn Campus Ambassador Program. \n\nPurpose: The resume does not explicitly state a purpose related to the LinkedIn Campus Ambassador Program, resulting in a score of 0. \n\nExperience: The candidate has extensive experience in technical projects and software development, but there is no mention of leadership roles or involvement in student organizations, which are key for this program. Therefore, the experience score is 3. \n\nProjects: The candidate has worked on several impressive projects, showcasing technical expertise and problem-solving skills. However, these projects are more technical and do not align directly with the ambassadorial role's focus on outreach and event organization. Thus, the projects score is 4. \n\nSkills: The candidate possesses strong technical skills, but the resume lacks emphasis on interpersonal, communication, and organizational skills, which are essential for the ambassador role. Therefore, the skills score is 2.",
+        "purpose": 0,
+        "experience": 3,
+        "projects": 4,
+        "skills": 2
+    },
+    {
+        "file_name": "Prashant_Kasbe_Resume (1) - Prashant kasbe.pdf",
+        "explanation": "The candidate has demonstrated strong leadership and initiative through roles such as supervising a 40-employee cross-functional team and leading various engineering projects. However, there is no explicit mention of ambassadorial or outreach experience, which is crucial for the LinkedIn Campus Ambassador Program. The experience section is strong, showcasing significant achievements in industrial engineering roles, but lacks direct relevance to the ambassador role. The projects section highlights technical engineering projects, which, while impressive, do not align with the program's focus on content creation and marketing. The skills section reflects strong technical and analytical abilities, but lacks emphasis on communication and interpersonal skills necessary for the ambassador role.",
+        "purpose": 0,
+        "experience": 4,
+        "projects": 3,
+        "skills": 2
+    },
+    {
+        "file_name": "Pruthvik_Sheth_Software_Engineer_Resume - Pruthvik Sheth.pdf",
+        "explanation": "The candidate's resume primarily focuses on technical skills and experience in software engineering roles. There is no explicit mention of purpose related to the LinkedIn Campus Ambassador Program, hence a score of 0 for Purpose. The Experience section highlights significant technical achievements and leadership in project development, warranting a score of 5. The Projects section demonstrates advanced technical projects with real-time data handling and predictive modeling, earning a score of 5. The Skills section lists strong technical skills relevant to software engineering but lacks direct relevance to the ambassador role, resulting in a score of 2.",
+        "purpose": 0,
+        "experience": 5,
+        "projects": 5,
+        "skills": 2
+    },
+    {
+        "file_name": "PT1114 - Purva Tugaonkar.pdf",
+        "explanation": "Purva Tugaonkar's resume demonstrates strong technical experience and project involvement, but lacks direct evidence of leadership roles or ambassadorial experience. \n\nPurpose: The resume does not explicitly mention any purpose related to the LinkedIn Campus Ambassador Program or similar initiatives. Therefore, the score for purpose is 0.\n\nExperience: The candidate has extensive experience in software engineering roles at Apexon and Goldman Sachs, showcasing skills in cross-functional collaboration, mentoring interns, and process automation. However, there is no mention of leadership roles such as President, VP, or similar positions. The mentoring of interns is a positive aspect, but the lack of direct leadership roles limits the score to 3.\n\nProjects: The candidate has worked on significant projects like the Hybrid Intrusion Detection System and Market Cap-based Trade Management System, demonstrating technical proficiency and innovation. The publication of a research paper and participation in a hackathon further highlight project involvement. However, these projects are more technical and do not directly relate to ambassadorial duties. The score for projects is 4.\n\nSkills: The resume lists a wide range of technical skills, including programming languages, frameworks, and cloud services. While these skills are impressive, they do not directly align with the skills required for the ambassador role, such as communication and organizational skills. The score for skills is 2.",
+        "purpose": 0,
+        "experience": 3,
+        "projects": 4,
+        "skills": 2
+    },
+    {
+        "file_name": "Resume - Jayanth Kalyanam.pdf",
+        "explanation": "The resume provided by Jayanth Kalyanam demonstrates a strong technical background with significant experience in AI and ML development, as well as project management. However, it lacks explicit mention of leadership roles or ambassadorial experience, which are crucial for the LinkedIn Campus Ambassador Program. \n\nPurpose: The resume does not explicitly state a purpose related to the LinkedIn Campus Ambassador Program, nor does it highlight any specific interest in promoting LinkedIn's value or engaging with student communities. Therefore, it scores 0 in this section.\n\nExperience: The candidate has substantial technical experience, particularly in AI and ML, as evidenced by their internship and certifications. However, there is no mention of leadership roles or involvement in student organizations, which are key criteria for this program. Thus, the experience section scores 3 out of 6.\n\nProjects: The projects listed are technically impressive and demonstrate the candidate's ability to manage and execute complex tasks. However, they do not align with the ambassadorial role's focus on community engagement and event organization. Therefore, this section scores 4 out of 6.\n\nSkills: The candidate possesses strong technical skills, including programming, data analysis, and project management. However, the resume does not highlight interpersonal or communication skills, which are essential for the ambassador role. As such, the skills section scores 2 out of 4.",
+        "purpose": 0,
+        "experience": 3,
+        "projects": 4,
+        "skills": 2
+    },
+    {
+        "file_name": "Resume - Naveen Kumar Potta.pdf",
+        "explanation": "Naveen Kumar Potta's resume demonstrates strong technical skills and project experience, particularly in AI and machine learning. However, the resume lacks explicit mention of leadership roles or ambassadorial experience, which are crucial for the LinkedIn Campus Ambassador Program. The purpose section scores low as the resume does not clearly align with the ambassadorial role's objectives of promoting LinkedIn and engaging with the student community. The experience section scores moderately due to the impressive technical projects, but these do not directly relate to leadership or outreach activities. The projects section scores high because of the innovative and technically complex projects listed. The skills section scores full points due to the extensive list of technical skills, although these are more relevant to technical roles than an ambassadorial position.",
+        "purpose": 1,
+        "experience": 3,
+        "projects": 6,
+        "skills": 4
+    },
+    {
+        "file_name": "Resume - Parth Jigneshkumar Modi.pdf",
+        "explanation": "Parth Jigneshkumar Modi's resume demonstrates a strong technical background with significant experience in data science and analytics. However, the resume lacks explicit mention of leadership roles or ambassadorial experience, which are crucial for the LinkedIn Campus Ambassador Program. \n\nPurpose: The resume does not explicitly state a purpose related to the LinkedIn Campus Ambassador Program, resulting in a score of 0. \n\nExperience: Parth has substantial experience as a Data Science Intern and Data Analyst Intern, showcasing skills in machine learning, data processing, and dashboard creation. However, there is no mention of leadership roles or involvement in student organizations, which limits the score to 3. \n\nProjects: The projects listed are technically impressive and demonstrate strong problem-solving skills and creativity. They involve complex data processing and visualization tasks, which are relevant to the program's focus on content creation and marketing. Therefore, a score of 5 is awarded. \n\nSkills: The resume lists a wide range of technical skills, including programming languages, databases, cloud technologies, and data visualization tools. These skills are highly relevant to the program's requirements, earning a score of 4.",
+        "purpose": 0,
+        "experience": 3,
+        "projects": 5,
+        "skills": 4
+    },
+    {
+        "file_name": "Resume - Sri Gopi Sarath Gode.pdf",
+        "explanation": "The candidate has demonstrated strong technical skills in data visualization and analysis, which are valuable for creating insightful content and presentations. However, there is no explicit mention of experience in leadership roles or ambassadorial activities, which are crucial for the LinkedIn Campus Ambassador Program. The projects section highlights significant technical achievements, particularly in data warehousing and machine learning, showcasing the candidate's ability to handle complex projects and deliver impactful results. The skills section mentions project management and problem-solving, which are essential for organizing events and workshops, but lacks specific mention of interpersonal or communication skills necessary for ambassadorial roles.",
+        "purpose": 0,
+        "experience": 2,
+        "projects": 5,
+        "skills": 2
+    },
+    {
+        "file_name": "Resume -Nitya - Nitya Reddy Yerram.pdf",
+        "explanation": "The candidate's resume demonstrates a strong technical background with extensive experience in software development and cloud technologies. However, the resume lacks explicit mention of leadership roles or ambassadorial experience, which are crucial for the LinkedIn Campus Ambassador Program. The projects section highlights significant technical achievements and problem-solving skills, but there is no clear indication of involvement in student organizations or community engagement activities. The skills section is robust, showcasing a wide range of technical proficiencies, but it does not emphasize interpersonal or communication skills, which are essential for the ambassador role.",
+        "purpose": 0,
+        "experience": 3,
+        "projects": 4,
+        "skills": 3
+    },
+    {
+        "file_name": "Resume 02-10-2025 - Henry Yang.pdf",
+        "explanation": "Henry Yang's resume demonstrates a clear purpose as a motivated Salesforce Administrator/Developer, which aligns with the program's goal of empowering students with professional growth. However, the purpose statement lacks specific mention of the ambassador role or direct connection to LinkedIn's mission, resulting in a score of 1 for purpose. In terms of experience, Henry has demonstrated strong interpersonal and organizational skills, which are crucial for the ambassador role, but there is no mention of leadership roles or direct ambassador experience, resulting in a score of 3. The project section highlights a significant project, 'Great Outdoors,' where Henry managed the launch of an e-commerce website, showcasing project management skills and initiative, earning a score of 4. For skills, Henry's resume mentions strong communication and interpersonal skills, which are essential for the role, but lacks specific mention of cross-functional work or self-motivation, resulting in a score of 3.",
+        "purpose": 1,
+        "experience": 3,
+        "projects": 4,
+        "skills": 3
+    },
+    {
+        "file_name": "Resume Mrunali Katta SJSU MS in DA - Mrunali Katta.pdf",
+        "explanation": "The resume demonstrates strong technical experience in data science and quality engineering roles, with a focus on data visualization, web scraping, and software testing. However, it lacks explicit mention of leadership roles or ambassadorial experience, which are crucial for the LinkedIn Campus Ambassador Program. The projects section highlights significant technical projects, showcasing skills in machine learning and data analysis, but does not directly relate to the ambassadorial responsibilities such as event organization or community engagement. The skills section indicates strong technical abilities but does not emphasize interpersonal or communication skills, which are essential for the role.",
+        "purpose": 0,
+        "experience": 3,
+        "projects": 4,
+        "skills": 2
+    },
+    {
+        "file_name": "RESUME Smriti Jha - Smriti Jha.pdf",
+        "explanation": "The resume provided does not contain explicit information about the candidate's purpose for applying to the LinkedIn Campus Ambassador Program, resulting in a score of 0 for the Purpose section. In the Experience section, the candidate has demonstrated experience in creating interactive elements and improving website engagement, which shows initiative and a proactive approach, earning a score of 3. However, there is no mention of leadership roles or direct ambassador experience, which limits the score. For the Projects section, the candidate has worked on significant projects involving machine learning and web design, showcasing technical skills and project management, earning a score of 4. In the Skills section, the candidate has demonstrated strong skills in digital marketing, collaboration, and strategic planning, which are relevant to the ambassador role, earning a score of 3.",
+        "purpose": 0,
+        "experience": 3,
+        "projects": 4,
+        "skills": 3
+    },
+    {
+        "file_name": "Resume-Atharva - Atharva Dixit.pdf",
+        "explanation": "The resume does not explicitly mention any purpose related to the LinkedIn Campus Ambassador Program, resulting in a score of 0 for the purpose section. In terms of experience, the candidate has a strong technical background with experience in various technologies and frameworks, but lacks specific leadership roles or ambassadorial experience, which limits the score to 2. The projects section is well-documented with detailed descriptions of technical projects, showcasing the candidate's ability to manage and execute complex tasks, earning a score of 5. The skills section is robust, listing a wide range of technical skills and certifications, which demonstrates a high level of proficiency and earns a score of 4.",
+        "purpose": 0,
+        "experience": 2,
+        "projects": 5,
+        "skills": 4
+    },
+    {
+        "file_name": "Resume_Lakshmi_Rawath - Lakshmi Krishna Rawath.pdf",
+        "explanation": "Lakshmi Krishna Rawath's resume demonstrates a strong foundation in engineering management with a focus on product management, data analytics, and lean operations. However, the resume lacks direct mention of ambassadorial roles or leadership positions such as President, VP, or Captain, which are crucial for the Leadership & Initiative section. The experience section highlights strategic project leadership and data-driven decision-making, which are valuable but not directly aligned with ambassadorial outreach or event coordination. The projects section is not explicitly detailed, which limits the ability to assess involvement in relevant initiatives. The skills section showcases strong technical skills in data analytics and operations management, which are beneficial but do not directly address the interpersonal and communication skills necessary for the ambassador role. Overall, the resume reflects a strong technical and analytical background but lacks direct experience in ambassadorial roles, content creation, and outreach activities.",
+        "purpose": 1,
+        "experience": 3,
+        "projects": 2,
+        "skills": 3
+    },
+    {
+        "file_name": "Resume_Lavya_LinkedInCampusAmbassador - Lavya Bonagiri.pdf",
+        "explanation": "Lavya Bonagiri's resume demonstrates a clear purpose in leveraging leadership, communication, and social media skills, which aligns well with the ambassador role, earning a score of 2 in the Purpose section. In terms of Experience, Lavya has relevant experience as a Social Media Coordinator and Office Assistant, which involves event promotion and social media management, earning a score of 5. However, there is no direct mention of leadership roles such as President or VP, which slightly limits the score. The Projects section is marked as N/A, resulting in a score of 0. For Skills, Lavya showcases strong social media, branding, networking, and graphic design skills, which are crucial for the ambassador role, earning a score of 4.",
+        "purpose": 2,
+        "experience": 5,
+        "projects": 0,
+        "skills": 4
+    },
+    {
+        "file_name": "Resume_NKFS - Siva Sai Krishna Nekkalapu.pdf",
+        "explanation": "The resume provided by Siva Sai Krishna Nekkalapu demonstrates a strong technical background with significant experience in software engineering roles. However, it lacks direct evidence of leadership roles or ambassadorial experience, which are crucial for the LinkedIn Campus Ambassador Program. \n\nPurpose: The resume does not explicitly mention any purpose or motivation related to the LinkedIn Campus Ambassador Program, such as promoting LinkedIn's value or empowering peers. Therefore, it scores 0 in this section.\n\nExperience: The candidate has extensive experience as a Software Engineer at NBCUniversal and Maximl Labs, showcasing technical skills and project management. However, there is no mention of leadership roles or involvement in student organizations, which are key for this program. Thus, the experience score is 3.\n\nProjects: The candidate has worked on several impressive projects, such as ProfileVerse and a Real-Time Watch Party Application, which demonstrate technical proficiency and project execution skills. However, these projects do not align with the ambassadorial or outreach focus of the program. Therefore, the projects score is 4.\n\nSkills: The resume lists a variety of technical skills, including Agile Methodologies and Design Patterns, which are valuable but not directly related to the skills needed for a campus ambassador role, such as communication and interpersonal skills. Therefore, the skills score is 2.",
+        "purpose": 0,
+        "experience": 3,
+        "projects": 4,
+        "skills": 2
+    },
+    {
+        "file_name": "Rhea Ramalingam - Linkedin Ambassador - Rhea Ram.pdf",
+        "explanation": "Rhea Ramalingam's resume demonstrates strong leadership and initiative, particularly in her role as Vice President of Programming for the Panhellenic Council at San Jose State University. Her experience in directing teams to execute large-scale events and fostering collaboration among sororities aligns well with the leadership and initiative criteria, earning her a high score in the experience section. However, there is no explicit mention of content creation or marketing experience, which affects her score in the projects section. Her skills in using Excel for tracking outreach progress and managing communications indicate strong organizational skills, contributing positively to her skills score. Overall, while her leadership experience is robust, the lack of specific ambassador or outreach experience and content creation projects limits her scores in those areas.",
+        "purpose": 1,
+        "experience": 5,
+        "projects": 2,
+        "skills": 3
+    },
+    {
+        "file_name": "RupashiBahlResume - Rupashi Bahl.pdf",
+        "explanation": "The candidate has demonstrated leadership and initiative through their role in initiating the creation of a High School Badminton Team and serving as a club officer. Additionally, they co-founded Gyaan Sarovar, showcasing their ability to lead and manage events. However, there is no explicit mention of ambassador or outreach experience related to LinkedIn or similar platforms. The candidate has experience in content creation through launching a YouTube channel and managing virtual events, which aligns with the content creation and marketing criteria. The skills section highlights teamwork and resilience, which are important for the role, but there is limited information on specific skills related to LinkedIn or professional networking. Overall, the candidate shows potential in leadership and content creation but lacks direct experience with LinkedIn or similar ambassador roles.",
+        "purpose": 1,
+        "experience": 4,
+        "projects": 2,
+        "skills": 3
+    },
+    {
+        "file_name": "Shamathmika_Resume - Shamathmika Vs(1).pdf",
+        "explanation": "The resume provided does not explicitly mention any purpose related to the LinkedIn Campus Ambassador Program, hence the score for the purpose section is 0. The experience section is scored at 5 out of 6 due to the candidate's extensive experience in software engineering roles at NortonLifeLock, including leadership roles such as leading a group of interns and taking on additional responsibilities as an Automation Lead. However, there is no direct mention of experience in student organizations or mentoring, which is why it is not a full score. The projects section is scored at 4 out of 6 because the candidate has worked on significant projects like Project EVA and Auto-Renewal banner, but there is no mention of projects related to content creation or marketing, which are crucial for the ambassador role. The skills section is scored at 3 out of 4 as the candidate demonstrates strong technical skills and leadership capabilities, but there is no explicit mention of skills related to communication, public speaking, or event organization, which are important for the ambassador role.",
+        "purpose": 0,
+        "experience": 5,
+        "projects": 4,
+        "skills": 3
+    },
+    {
+        "file_name": "ShawnChumbar_Resume - Shawn Chumbar.pdf",
+        "explanation": "The resume does not explicitly mention any purpose related to the LinkedIn Campus Ambassador Program, hence a score of 0 is given for the purpose section. The experience section is strong, showcasing leadership and initiative in professional settings, particularly in software engineering roles, which aligns with the leadership and initiative criteria, earning a score of 6. However, there is no mention of specific projects related to content creation, marketing, or ambassadorial roles, resulting in a score of 0 for projects. The skills section is robust, highlighting strong technical skills and tools relevant to the role, earning a score of 4.",
+        "purpose": 0,
+        "experience": 6,
+        "projects": 0,
+        "skills": 4
+    },
+    {
+        "file_name": "Shivani6692103999 - Shivani Vinodkumar Jariwala.pdf",
+        "explanation": "The candidate's resume does not explicitly mention any purpose related to the LinkedIn Campus Ambassador Program, resulting in a score of 0 for the purpose section. In terms of experience, the resume highlights customer support experience, but lacks specific leadership roles or ambassadorial experience, which limits the score to 2. The projects section is strong, showcasing a variety of technical projects, including an e-commerce website and an Instagram clone, which demonstrates initiative and technical skills, earning a score of 5. The skills section lists a range of technical and soft skills, including communication and leadership, which are relevant to the ambassador role, resulting in a score of 3.",
+        "purpose": 0,
+        "experience": 2,
+        "projects": 5,
+        "skills": 3
+    },
+    {
+        "file_name": "shravani-resume - Shravani Surendra Chandratre.pdf",
+        "explanation": "The resume provided does not explicitly mention any purpose related to the LinkedIn Campus Ambassador Program, hence the score for Purpose is 0. In terms of Experience, the candidate has demonstrated significant technical experience through various projects such as Taskify, Predictive Maintenance System, and Proc-Based Linux Device Driver. However, there is no mention of leadership roles or involvement in student organizations, which are crucial for the ambassador role. Therefore, the Experience score is 3. For Projects, the candidate has worked on complex and technically challenging projects, showcasing strong project management and execution skills, earning a score of 5. The Skills section is robust, with a wide range of technical skills across programming languages, databases, frameworks, and DevOps tools, but lacks emphasis on interpersonal or communication skills, which are essential for the ambassador role. Thus, the Skills score is 2.",
+        "purpose": 0,
+        "experience": 3,
+        "projects": 5,
+        "skills": 2
+    },
+    {
+        "file_name": "Shubham_Kothawade_2_1_4 (5) - Shubham Sharad Kothawade.pdf",
+        "explanation": "The candidate demonstrates a clear purpose in seeking to apply analytical skills, which aligns with the program's goals of empowering students through professional growth. However, the purpose statement lacks specific mention of the ambassador role or direct connection to LinkedIn's mission, resulting in a score of 1 for purpose. In terms of experience, the candidate has a strong background in project management and has participated in significant extracurricular activities, such as organizing events and leading initiatives. However, there is no explicit mention of leadership roles or ambassadorial experience, which limits the score to 4. The projects section highlights involvement in technical competitions and publications, showcasing the candidate's ability to manage complex projects, earning a score of 4. The skills section is well-rounded, with strong leadership, analytical thinking, and problem-solving skills, which are crucial for the ambassador role, resulting in a score of 4.",
+        "purpose": 1,
+        "experience": 4,
+        "projects": 4,
+        "skills": 4
+    },
+    {
+        "file_name": "sirimuvva pathikonda - Sirimuvva Pathikonda.pdf",
+        "explanation": "The candidate demonstrates a strong purpose by showing a clear objective to improve strategic recommendations and streamline operations, earning 2 points in the Purpose section. In the Experience section, the candidate has extensive experience in project management and collaboration with cross-functional teams, which aligns well with the ambassador role, earning 6 points. The Projects section highlights multiple research contributions and optimization projects, showcasing the candidate's ability to handle complex tasks, earning 6 points. The Skills section lists a wide range of technical and project management skills, which are crucial for the role, earning 4 points.",
+        "purpose": 2,
+        "experience": 6,
+        "projects": 6,
+        "skills": 4
+    },
+    {
+        "file_name": "Sivagami_Subramanyan_Resume_.docx - Sivagami Subramanyan.pdf",
+        "explanation": "Sivagami Subramanyan's resume demonstrates a strong alignment with the LinkedIn Campus Ambassador Program's objectives. In the Purpose section, the candidate clearly outlines objectives related to effective communication and teamwork, which are essential for the ambassador role, earning a score of 2. In the Experience section, Sivagami has held leadership roles such as Head of Operations at SJSU's Financial Management Association, where she organized numerous professional development events and collaborated with multiple student organizations. This experience aligns well with the program's emphasis on leadership and initiative, resulting in a score of 6. The Projects section is marked as N/A, indicating no specific projects were highlighted, leading to a score of 0. For Skills, Sivagami possesses strong technical skills in Microsoft and Google suites, various programming languages, and proficiency in multiple languages, which are valuable for content creation and outreach, earning a score of 4.",
+        "purpose": 2,
+        "experience": 6,
+        "projects": 0,
+        "skills": 4
+    },
+    {
+        "file_name": "Siva_Girish_Ramesh_Resume - Siva Girish Ramesh.pdf",
+        "explanation": "The candidate's resume does not explicitly mention any purpose related to the LinkedIn Campus Ambassador Program, hence a score of 0 is given for the purpose section. In terms of experience, the candidate has relevant experience as a Teaching Assistant and has organized university-level events, which demonstrates leadership and initiative, earning a score of 4. The projects section is strong, with detailed descriptions of technical projects that showcase problem-solving and critical thinking skills, resulting in a score of 5. The skills section is comprehensive, listing a wide range of technical skills across programming languages, tools, frameworks, databases, and cloud technologies, which justifies a score of 4.",
+        "purpose": 0,
+        "experience": 4,
+        "projects": 5,
+        "skills": 4
+    },
+    {
+        "file_name": "Smit_Resume - Smit Arvindkumar Ardeshana.pdf",
+        "explanation": "The candidate's resume demonstrates strong technical skills and project experience, particularly in software development and data science. However, there is no explicit mention of purpose related to the LinkedIn Campus Ambassador Program, such as promoting LinkedIn's value or empowering peers. The experience section highlights leadership in technical projects, but lacks direct experience in student organizations or ambassador roles. The projects section showcases impressive technical projects with significant impact, but does not relate to ambassadorial or outreach activities. The skills section reflects strong technical and analytical abilities, but does not emphasize interpersonal or communication skills necessary for the ambassador role.",
+        "purpose": 0,
+        "experience": 3,
+        "projects": 4,
+        "skills": 3
+    },
+    {
+        "file_name": "SuryaVamsiKrishnaPulapa_resume - Surya Vamsi Krishna Pulapa.pdf",
+        "explanation": "The candidate has extensive experience in software development, with multiple internships and roles that demonstrate strong technical skills. However, there is no explicit mention of ambassadorial roles or leadership positions such as President, VP, or Captain, which are crucial for the Leadership & Initiative section. The candidate's experience in developing dashboards and real-time analytics engines shows strong project management and technical execution skills, which are relevant for the Projects section. The skills section is well-covered with a wide range of programming languages, frameworks, and tools, indicating strong technical proficiency. However, there is no direct evidence of experience in content creation or marketing, which affects the Content Creation & Marketing section. Overall, the resume reflects a strong technical background but lacks direct experience in ambassadorial roles or outreach activities.",
+        "purpose": 0,
+        "experience": 4,
+        "projects": 5,
+        "skills": 4
+    },
+    {
+        "file_name": "University Resume.pdf (2) - Kruthika Y Sonwalkar.pdf",
+        "explanation": "The candidate has demonstrated significant experience in sales development and account management, particularly with LinkedIn Technologies, which aligns well with the ambassador role's focus on professional networking and career growth. However, there is no explicit mention of ambassadorial roles or direct leadership positions such as President or VP, which affects the leadership and initiative score. The candidate's experience in creating a LinkedIn page and managing marketing campaigns shows strong content creation and marketing skills, which are crucial for promoting events and LinkedIn Learning. The involvement with LinkedIn's Toastmasters Club and volunteering with LinkedIn Coaches Club indicates strong communication and public speaking skills, as well as a commitment to helping others, which are valuable for the ambassador role. However, there is no specific mention of projects related to event organization or partnerships with student organizations, which impacts the projects score. The skills section is well-supported by the candidate's roles in Toastmasters and volunteering activities, demonstrating strong interpersonal and communication skills.",
+        "purpose": 1,
+        "experience": 5,
+        "projects": 2,
+        "skills": 3
+    },
+    {
+        "file_name": "wilfredo 2025 resume - Wilfredo Concepcion.pdf",
+        "explanation": "Wilfredo's resume demonstrates a strong technical background with significant project management experience. However, it lacks explicit mention of purpose related to the LinkedIn Campus Ambassador role. \n\nPurpose: Wilfredo's resume does not explicitly mention any purpose or motivation related to the LinkedIn Campus Ambassador role, such as promoting LinkedIn's value or empowering peers. Therefore, the score for purpose is 0.\n\nExperience: Wilfredo has demonstrated experience in spearheading strategies to achieve sales targets and has experience in product knowledge and conflict resolution. However, there is no mention of leadership roles or experience in student organizations, mentoring, or managing projects in an academic or professional setting. Therefore, the score for experience is 3.\n\nProjects: Wilfredo has worked on multiple projects, showcasing strong technical skills and project management capabilities. The projects demonstrate initiative and the ability to lead and manage complex tasks, which aligns with the responsibilities of the ambassador role. Therefore, the score for projects is 6.\n\nSkills: Wilfredo possesses strong technical skills, including proficiency in multiple programming languages and frameworks. However, the resume does not highlight interpersonal, communication, or organizational skills, which are crucial for the ambassador role. Therefore, the score for skills is 2.",
+        "purpose": 0,
+        "experience": 3,
+        "projects": 6,
+        "skills": 2
+    },
+    {
+        "file_name": "Yashika Gupta.Resume (5) - Yashika Gupta.pdf",
+        "explanation": "Yashika Gupta's resume demonstrates strong leadership and initiative, as evidenced by her role as President of the Linens N Love Club, where she established a chapter and recruited over 30 members. This role also involved coordinating with hotels for donations, showcasing her ability to manage projects and engage with the community. Her experience as a Marketing Intern for Mayor David Haubert further highlights her skills in marketing and outreach, as she conducted over 500 calls and implemented social media marketing initiatives. However, there is no explicit mention of ambassador or outreach experience related to LinkedIn or similar platforms. In terms of skills, Yashika possesses a wide range of technical skills, including proficiency in SCRUM, Python, and various project management tools, which are valuable for the role. However, the resume lacks specific projects related to the LinkedIn Campus Ambassador Program or similar initiatives.",
+        "purpose": 0,
+        "experience": 5,
+        "projects": 0,
+        "skills": 4
+    },
+    {
+        "file_name": "Yash_S_Resume - Yash Bharatbhai Savani.pdf",
+        "explanation": "The candidate has a strong technical background with a focus on software engineering and backend development. However, the resume lacks explicit mention of leadership roles or ambassadorial experience, which are crucial for the LinkedIn Campus Ambassador Program. The purpose section scores low as it does not align with the ambassadorial role's objectives. The experience section scores moderately due to relevant technical roles but lacks leadership or outreach experience. The projects section scores well due to the candidate's involvement in multiple technical projects, showcasing initiative and problem-solving skills. The skills section scores high as the candidate possesses a wide range of technical skills relevant to software development.",
+        "purpose": 1,
+        "experience": 3,
+        "projects": 5,
+        "skills": 4
+    },
+    {
+        "file_name": "Yugm General Resume - Yugm Maneshkumar Patel.pdf",
+        "explanation": "The candidate's resume was evaluated based on the predefined criteria for the LinkedIn Campus Ambassador Program. \n\nPurpose: The resume does not explicitly mention the candidate's purpose or motivation for applying to the LinkedIn Campus Ambassador Program, resulting in a score of 0 for this section.\n\nExperience: The candidate has experience in organizing and volunteering for events such as AWS Community Day 2022 and the AWS Auto Scaling event. However, there is no mention of leadership roles or ambassadorial experience, which limits the score to 3 out of 6.\n\nProjects: The candidate has worked on several projects, including a Learning Management System, a Hostel Management System, and a Netflix Clone. These projects demonstrate technical skills and initiative, earning a score of 5 out of 6.\n\nSkills: The candidate possesses skills in algorithms, teamwork, and has certifications such as the Red Hat Certified System Administrator (RHCSA). However, the resume lacks explicit mention of strong interpersonal, communication, and organizational skills, resulting in a score of 2 out of 4.",
+        "purpose": 0,
+        "experience": 3,
+        "projects": 5,
+        "skills": 2
+    }
+]

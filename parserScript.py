@@ -14,7 +14,7 @@ def extract_text_from_pdf(pdf_path):
 
 def find_sections(text):
     sections = {
-        "purpose": ["Objective", "Career Objective", "Purpose"],
+        "purpose": ["Objective", "Career Objective", "Purpose", 'Summary'],
         "experience": ["Experience", "Work Experience", "Employment History"],
         "projects": ["Projects", "Project Experience", "Extracurriculars", "Personal Projects"],
         "skills": ["Skills", "Technical Skills", "Relevant Skills"]
@@ -40,7 +40,7 @@ def find_sections(text):
     
     return extracted_data
 
-def process_resumes(directory):
+def parse_resumes(directory):
     resume_data = []
     
     for file_name in os.listdir(directory):
@@ -52,15 +52,11 @@ def process_resumes(directory):
             resume_entry = {"file_name": file_name, **extracted_sections}
             resume_data.append(resume_entry)
     
-    return resume_data
+    output_file = "outputs/parsed_resumes.json"
+    with open(output_file, "w", encoding="utf-8") as f:
+        json.dump(resume_data, f, indent=4)
 
-# TODO: Usage
-directory_path = r"C:\Users\junkn\OneDrive\Desktop\Chrome Downloads\reusmer"
-parsed_resumes = process_resumes(directory_path)
+    print(f"Parsed resumes saved to {output_file}")
+    return None
 
-# Save as JSON
-output_file = "parsed_resumes.json"
-with open(output_file, "w", encoding="utf-8") as f:
-    json.dump(parsed_resumes, f, indent=4)
 
-print(f"Parsed resumes saved to {output_file}")

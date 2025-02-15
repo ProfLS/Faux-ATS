@@ -11,6 +11,7 @@ from pydantic.dataclasses import *
 from pydantic import BaseModel, Field
 from typing import List
 import time
+from tqdm import tqdm
 import os
 
 give_explanation = True
@@ -26,7 +27,7 @@ if "OPENAI_API_KEY" not in os.environ:
 
 ats = ChatOpenAI(
     model="gpt-4o",
-    temperature=0.2
+    temperature=0.1
 )
 
 # Prompt & Formatting
@@ -35,17 +36,17 @@ if give_explanation:
     class ResumeScore(BaseModel):
         file_name: str = Field(..., description="The file name")
         explanation: str = Field(..., description="Explain the rationale for all the scores given for each section in depth")
-        purpose: int = Field(..., ge=0, le=8, description="Score for the purpose section (0-8)")
-        experience: int = Field(..., ge=0, le=8, description="Score for the experience section (0-8)")
-        projects: int = Field(..., ge=0, le=8, description="Score for the projects section (0-8)")
-        skills: int = Field(..., ge=0, le=8, description="Score for the skills section (0-8)")
+        purpose: int = Field(..., ge=0, le=2, description="Score for the purpose section (0-2)")
+        experience: int = Field(..., ge=0, le=6, description="Score for the experience section (0-6)")
+        projects: int = Field(..., ge=0, le=6, description="Score for the projects section (0-6)")
+        skills: int = Field(..., ge=0, le=4, description="Score for the skills section (0-4)")
 else:
     class ResumeScore(BaseModel):
         file_name: str = Field(..., description="The file name")
-        purpose: int = Field(..., ge=0, le=8, description="Score for the purpose section (0-8)")
-        experience: int = Field(..., ge=0, le=8, description="Score for the experience section (0-8)")
-        projects: int = Field(..., ge=0, le=8, description="Score for the projects section (0-8)")
-        skills: int = Field(..., ge=0, le=8, description="Score for the skills section (0-8)")
+        purpose: int = Field(..., ge=0, le=2, description="Score for the purpose section (0-2)")
+        experience: int = Field(..., ge=0, le=6, description="Score for the experience section (0-6)")
+        projects: int = Field(..., ge=0, le=6, description="Score for the projects section (0-6)")
+        skills: int = Field(..., ge=0, le=4, description="Score for the skills section (0-4)")
 
 parser = JsonOutputParser(pydantic_object=ResumeScore)
 
@@ -117,29 +118,30 @@ template = """
     “Content Creation” 
 
     ### **Evaluation Criteria**
-    **Leadership & Initiative (0-8 Points)**
+    **Leadership & Initiative**
     - Leadership roles: President, VP, Captain, Lead.
     - Experience in student organizations, mentoring, or managing projects.
     - Proactive engagement in academic/professional settings.
 
-    **Content Creation & Marketing (0-8 Points)**
+    **Content Creation & Marketing**
     - Social media management, branding, or event promotion.
     - Experience creating marketing materials (flyers, videos, instagram posts).
     - Community engagement and digital presence.
 
-    **Ambassador & Outreach Experience (0-8 Points)**
+    **Ambassador & Outreach Experience**
     - Experience as a campus ambassador, brand representative, or event coordinator.
     - Strong communication and public speaking skills.
     - Organized or participated in events, workshops, or networking initiatives.
 
-    Generate a short checklist summary of what criterion the applicant “ticked off”
-
     Point System
 
-    Leadership (0-8 points)
-    Content creation (0-8 points)
-    Ambassador experience (0-8 points)
-    Assign a Point Score (Max 24 Points)
+    Score each section with using the following point scales, and the aformentioned evaluation criteria.
+    Purpose (0-2 points)
+    Experience (0-6 points)
+    Project (0-6)
+    Skills (0-4 points)
+    
+    This means a maximum total of 18 points
 
     {format_instructions}
 
@@ -182,20 +184,19 @@ def process_resumes(input_json, output_json="scored_resumes.json"):
 
     scored_resumes = []
 
-    for resume in resumes:
-        try:
-            print(f"Processing: {resume['file_name']}")
-            score = scorecard(resume)
-            scored_resumes.append(score)
-        except Exception as e:
-            print(f"Error processing {resume['file_name']}: {str(e)}")
-        
-        time.sleep(0.35)  # Rate limiting buffer
+    with tqdm(range(len(resumes)), desc="Processing Resumes") as pbar:
+
+        for resume in resumes:
+            try:
+                print(f"Processing: {resume['file_name']}")
+                score = scorecard(resume)
+                scored_resumes.append(score)
+            except Exception as e:
+                print(f"Error processing {resume['file_name']}: {str(e)}")
+            pbar.update(1)
+            time.sleep(0.1)  # Rate limiting buffer
 
     with open(output_json, "w", encoding="utf-8") as file:
         json.dump(scored_resumes, file, indent=4)
 
     print(f"Completed scoring. Saved output to: {output_json}")
-
-if __name__ == "__main__":
-    process_resumes("parsed_resumes.json")
