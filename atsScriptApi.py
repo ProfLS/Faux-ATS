@@ -17,7 +17,7 @@ import os
 give_explanation = True
 
 # Init ChatGPT API
-def load_api_key(filepath="private_properties.yaml"):
+def load_api_key(filepath="private_properties.yaml",config="API_KEY"):
     with open(filepath, "r") as file:
         config = yaml.safe_load(file)
     return config.get("API_KEY")

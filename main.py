@@ -6,7 +6,7 @@ import atsScriptApi
 
 ########### PARAMS ############
 
-INPUT_DIR = "C:/Users/junkn/OneDrive/Desktop/Chrome Downloads/Resume (File responses)-20250213T200055Z-001/Resume (File responses)"
+INPUT_DIR = atsScriptApi.load_api_key(config="INPUT_DIR")
 OUTPUT_DIR = "outputs"
 OUTPUT_FILE = f"{OUTPUT_DIR}/scored_resumes.json"
 FOR_REVIEW_DIR = f"{INPUT_DIR}/for_review"

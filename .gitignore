@@ -162,3 +162,4 @@ cython_debug/
 parsed_resumes.json
 scored_resumes.json
 private_properties.yaml
+outputs/
