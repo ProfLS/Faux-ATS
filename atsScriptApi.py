@@ -17,13 +17,13 @@ import os
 give_explanation = True
 
 # Init ChatGPT API
-def load_api_key(filepath="private_properties.yaml",config="API_KEY"):
+def load_config(filepath="private_properties.yaml",entry="API_KEY"):
     with open(filepath, "r") as file:
         config = yaml.safe_load(file)
-    return config.get("API_KEY")
+    return config.get(entry)
 
 if "OPENAI_API_KEY" not in os.environ:
-    os.environ["OPENAI_API_KEY"] = load_api_key()
+    os.environ["OPENAI_API_KEY"] = load_config()
 
 ats = ChatOpenAI(
     model="gpt-4o",
